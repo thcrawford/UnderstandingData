@@ -1,6 +1,6 @@
 # VizNetwork - Understanding Data
 ## University of Michigan
-## March 23, 2017
+## April 26, 2018
 
 ### Overview
 Getting data is hard. Getting good data is even harder. Preparing your data before you begin is essential to getting usable and reliable results. During this session, we’ll explore how to make sure your data is ready for analysis and visualization.
@@ -29,6 +29,7 @@ Types of Data:
 * [Types of Data via Wikipedia](https://en.wikipedia.org/wiki/Statistical_data_type)
 
 Preparing Data:
+* [How to avoid 10 common mistakes in data reporting](https://www.americanpressinstitute.org/publications/data-reporting-common-mistakes/)
 * [Preparing Data via Data + Design](https://infoactive.co/data-design/ch07.html)
 * [Data Cleaning via Data + Design](https://infoactive.co/data-design/ch08.html)
 * [Preparing Excel Files for Analysis via Tableau](http://kb.tableau.com/articles/knowledgebase/preparing-excel-files-analysis)
