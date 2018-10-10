@@ -1,6 +1,6 @@
-# VizNetwork - Understanding Data
+# VizNetwork - High Impact Data Visualization - Understanding Data
 ## University of Michigan
-## April 26, 2018
+## October 11, 2018
 
 ### Overview
 Getting data is hard. Getting good data is even harder. Preparing your data before you begin is essential to getting usable and reliable results. During this session, we’ll explore how to make sure your data is ready for analysis and visualization.
@@ -48,6 +48,7 @@ Open Data:
 * [Data.gov](https://www.data.gov/)
 * [Opportunity Project](http://opportunity.census.gov/)
 * [Michigan Open Data](http://www.michigan.gov/som/0,1607,7-192-29938_54272---,00.html)
+* [Data Driven Detroit](http://www.datadrivendetroit.org/)
 
 Excel Tips:
 * [Splitting a column into multiple columns via Microsoft](https://support.office.com/en-us/article/Split-text-into-different-cells-30b14928-5550-41f5-97ca-7a3e9c363ed7?CorrelationId=3be1db4b-d31a-4222-acdb-27dd1f08dd04&ui=en-US&rs=en-US&ad=US)
