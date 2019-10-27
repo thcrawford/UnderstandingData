@@ -1,6 +1,6 @@
 # VizNetwork - High Impact Data Visualization - Understanding Data
 ## University of Michigan
-## March 28, 2019
+## October 29, 2019
 
 ### Overview
 Getting data is hard. Getting good data is even harder. Preparing your data before you begin is essential to getting usable and reliable results. During this session, we’ll explore how to make sure your data is ready for analysis and visualization.
