@@ -1,4 +1,4 @@
-# VizNetwork - High Impact Data Visualization - Understanding Data
+# VizNetwork - Introduction to Data Analytics - Understanding Data
 ## University of Michigan
 ## October 29, 2019
 
